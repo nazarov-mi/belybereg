@@ -1,0 +1,110 @@
+
+/* font-family: "MuseoSansLight"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("./MuseoSansLight/MuseoSansLight.eot");
+	src: url("./MuseoSansLight/MuseoSansLight.eot?#iefix")format("embedded-opentype"),
+	url("./MuseoSansLight/MuseoSansLight.woff") format("woff"),
+	url("./MuseoSansLight/MuseoSansLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 100;
+}
+
+/* font-family: "MuseoSansLightItalic"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansLightItalic/MuseoSansLightItalic.eot");
+	src: url("MuseoSansLightItalic/MuseoSansLightItalic.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansLightItalic/MuseoSansLightItalic.woff") format("woff"),
+	url("MuseoSansLightItalic/MuseoSansLightItalic.ttf") format("truetype");
+	font-style: italic;
+	font-weight: 100;
+}
+
+/* font-family: "MuseoSansRegular"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansRegular/MuseoSansRegular.eot");
+	src: url("MuseoSansRegular/MuseoSansRegular.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansRegular/MuseoSansRegular.woff") format("woff"),
+	url("MuseoSansRegular/MuseoSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 300;
+}
+
+/* font-family: "MuseoSansItalic"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansItalic/MuseoSansItalic.eot");
+	src: url("MuseoSansItalic/MuseoSansItalic.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansItalic/MuseoSansItalic.woff") format("woff"),
+	url("MuseoSansItalic/MuseoSansItalic.ttf") format("truetype");
+	font-style: italic;
+	font-weight: 300;
+}
+
+/* font-family: "MuseoSansMedium"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansMedium/MuseoSansMedium.eot");
+	src: url("MuseoSansMedium/MuseoSansMedium.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansMedium/MuseoSansMedium.woff") format("woff"),
+	url("MuseoSansMedium/MuseoSansMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 500;
+}
+
+/* font-family: "MuseoSansMediumItalic"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansMediumItalic/MuseoSansMediumItalic.eot");
+	src: url("MuseoSansMediumItalic/MuseoSansMediumItalic.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansMediumItalic/MuseoSansMediumItalic.woff") format("woff"),
+	url("MuseoSansMediumItalic/MuseoSansMediumItalic.ttf") format("truetype");
+	font-style: italic;
+	font-weight: 500;
+}
+
+/* font-family: "MuseoSansBold"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansBold/MuseoSansBold.eot");
+	src: url("MuseoSansBold/MuseoSansBold.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansBold/MuseoSansBold.woff") format("woff"),
+	url("MuseoSansBold/MuseoSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+/* font-family: "MuseoSansBoldItalic"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansBoldItalic/MuseoSansBoldItalic.eot");
+	src: url("MuseoSansBoldItalic/MuseoSansBoldItalic.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansBoldItalic/MuseoSansBoldItalic.woff") format("woff"),
+	url("MuseoSansBoldItalic/MuseoSansBoldItalic.ttf") format("truetype");
+	font-style: italic;
+	font-weight: 700;
+}
+
+/* font-family: "MuseoSansBlack"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansBlack/MuseoSansBlack.eot");
+	src: url("MuseoSansBlack/MuseoSansBlack.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansBlack/MuseoSansBlack.woff") format("woff"),
+	url("MuseoSansBlack/MuseoSansBlack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 900;
+}
+
+/* font-family: "MuseoSansBlackItalic"; */
+@font-face {
+	font-family: "MuseoSans";
+	src: url("MuseoSansBlackItalic/MuseoSansBlackItalic.eot");
+	src: url("MuseoSansBlackItalic/MuseoSansBlackItalic.eot?#iefix")format("embedded-opentype"),
+	url("MuseoSansBlackItalic/MuseoSansBlackItalic.woff") format("woff"),
+	url("MuseoSansBlackItalic/MuseoSansBlackItalic.ttf") format("truetype");
+	font-style: italic;
+	font-weight: 900;
+}
